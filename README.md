@@ -36,8 +36,8 @@ My name is Igor and i hope you enjoy your stay
 
 <div align="center">
   <a href="https://github.com/IgorCamposRatao">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alesuzuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesuzuki&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorCamposRatao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCamposRatao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
