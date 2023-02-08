@@ -14,12 +14,14 @@ My name is Igor and i hope you enjoy your stay
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 
-
-  <a href = "mailto:igorcamposratao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "mailto:igorcamposratao@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
  
 </div>
 
+ <BR>
+ 
 - 💻 I'm a student of Full Stack Development
 - 📌 Currently living in São Paulo, SP
 - 📚 I love studiyng and learning new things
