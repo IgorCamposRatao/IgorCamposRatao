@@ -18,10 +18,10 @@ My name is Igor and i hope you enjoy your stay
  
 </div>
 
-- 💻 I'm Full Stack developer
+- 💻 I'm a student of Full Stack Development
 - 📌 Currently living in São Paulo, SP
 - 📚 I love studiyng and learning new things
--  In my free time i like to:
+- 🤟 In my free time i like to:
 • listen and play music 🎵 🎸
 • workout 🏋️‍♂️
 • play boardgames 🎲 and videogames 🎮
