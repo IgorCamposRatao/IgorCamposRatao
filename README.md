@@ -1,6 +1,8 @@
 ### Seja Bem-Vindo 👋
 My name is Igor and i hope you enjoy your stay
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IgorCamposRatao.visitor-badge&left_text=MyPageVisitors)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-campos-ratao/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -30,6 +32,7 @@ My name is Igor and i hope you enjoy your stay
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 <BR>
