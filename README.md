@@ -20,10 +20,10 @@ My name is Igor i hope you enjoy your stay
 - 📌 Currently living in São Paulo, SP
 - 📚 I love studiyng and learning new things
 -  In my free time i like to:
-  • listen and play music
-  • workout 
-  • play board gameand videogames
-  • read books and comics
+• listen and play music
+• workout 
+• play board gameand videogames
+• read books and comics
 
 ##
 <div  align="center"> 
