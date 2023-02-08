@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo 👋
 My name is Igor and i hope you enjoy your stay
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=IgorCamposRatao.visitor-badge&left_text=MyPageVisitors)
+[visitor badge](https://visitor-badge.glitch.me/badge?page_id=IgorCamposRatao.visitor-badge&left_text=MyPageVisitors)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-campos-ratao/" target="_blank">
