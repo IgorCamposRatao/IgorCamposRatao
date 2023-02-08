@@ -1,5 +1,5 @@
 ### Seja Bem-Vindo 👋
-My name is Igor i hope you enjoy your stay
+My name is Igor and i hope you enjoy your stay
 
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-campos-ratao/" target="_blank">
@@ -20,10 +20,10 @@ My name is Igor i hope you enjoy your stay
 - 📌 Currently living in São Paulo, SP
 - 📚 I love studiyng and learning new things
 -  In my free time i like to:
-• listen and play music
-• workout 
-• play board gameand videogames
-• read books and comics
+• listen and play music 🎵 🎸
+• workout 🏋️‍♂️
+• play boardgames 🎲 and videogames 🎮
+• read books and comics 📖
 
 ##
 <div  align="center"> 
@@ -31,3 +31,13 @@ My name is Igor i hope you enjoy your stay
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
+
+<BR>
+
+<div align="center">
+  <a href="https://github.com/IgorCamposRatao">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alesuzuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesuzuki&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+##
